@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+𝘐'𝘮 𝘊𝘩𝘳𝘪𝘴𝘵𝘪𝘢𝘯 𝘔𝘰𝘳𝘢́𝘯.
+- 𝘈 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘳𝘰𝘮 𝘈𝘳𝘨𝘦𝘯𝘵𝘪𝘯𝘢.
+- 𝘍𝘰𝘶𝘯𝘥𝘦𝘳 𝘰𝘧 𝘌𝘵𝘦𝘳𝘯𝘢𝘭 𝘚𝘶𝘯𝘴𝘦𝘵 𝘚𝘵𝘶𝘥𝘪𝘰.
+- 𝘞𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 [𝘣𝘢𝘤𝘬𝘦𝘯𝘥]
+
+𝘠𝘰𝘶 𝘤𝘢𝘯 𝘴𝘦𝘦 𝘴𝘰𝘮𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘪𝘯 𝘮𝘺 𝘱𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰: <a href="http://christiandev.herokuapp.com" target="_blank">[Christiandev]</a>
