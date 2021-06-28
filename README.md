@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - 𝙰 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙰𝚛𝚐𝚎𝚗𝚝𝚒𝚗𝚊.<br>
 - I like to write clean code.<br>
 - Tech enthusiast.<br>
-- 90's is the best decade. <br>
 </p>  
 <br>
