@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <p>
 - 𝙰 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙰𝚛𝚐𝚎𝚗𝚝𝚒𝚗𝚊.<br>
 - I like to write clean code.<br>
-- Tech enthusiast.<br><br>
+- Tech enthusiast.
   
-  You can find me in https://christianmoran.netlify.app
+![alt_text](https://github.com/chrisrm86/chrisrm86/blob/main/skills.png?raw=true)
+You can find links to some of my deployed projects in: https://christianmoran.netlify.app
 </p>  
 <br>
