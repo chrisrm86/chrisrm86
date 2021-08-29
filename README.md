@@ -1,26 +1,21 @@
-### Hi there 👋
+## Hola :wave: Soy Christian Morán, desarrollador de software de Córdoba, Argentina.
 
-<!--
-**chrisrm86/chrisrm86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy entusiasta de la tecnología y de como puede ser utilizada para buenos y útiles propósitos.
 
-Here are some ideas to get you started:
+Tengo experiencia en el area IT como freelancer aproximadamente 2 años.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3>𝙸'𝚖 𝙲𝚑𝚛𝚒𝚜𝚝𝚒𝚊𝚗 𝙼𝚘𝚛𝚊́𝚗</h3><br>
-<p>
-- 𝙰 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙰𝚛𝚐𝚎𝚗𝚝𝚒𝚗𝚊.<br>
-- I like to write clean code.<br>
-- Tech enthusiast.
-  
+## Mis skills incluyen:
 ![alt_text](https://github.com/chrisrm86/chrisrm86/blob/main/skills.png?raw=true)
-You can find links to some of my deployed projects in: https://christianmoran.netlify.app
+
+## He realizado proyectos como:
+
+- Scripts Python y Ruby para suites de tests automatizados que corren en Jenkins.
+- Aplicaciones web frontend desarrolladas con React.js y Angular, algunas conectadas a Firebase/Firestore.
+- Aplicaciones web backend realizadas con Django.
+- API´s con Node.js (Express y MongoDB).
+- Juegos para S.O. Android disponibles en [Google Play Store](https://play.google.com/store/apps/developer?id=Christian+Mor%C3%A1n)
+
+<!--![alt_text](https://github.com/chrisrm86/chrisrm86/blob/main/skills.png?raw=true)-->
+## Puedes encontrar más detalles sobre mis proyectos en [mi página web](https://christianmoran.netlify.app)
 </p>  
 <br>
