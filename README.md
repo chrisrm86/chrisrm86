@@ -1,4 +1,4 @@
-## Hola :wave: Soy Christian Morán, desarrollador de software de Córdoba, Argentina.
+## Hola :wave: Soy Christian Morán, desarrollador Full Stack residiendo en Córdoba, Argentina.
 
 Soy entusiasta de la tecnología y de como puede ser utilizada para buenos y útiles propósitos.
 
