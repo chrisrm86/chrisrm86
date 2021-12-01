@@ -2,8 +2,6 @@
 
 Soy entusiasta de la tecnología y de como puede ser utilizada para buenos y útiles propósitos.
 
-Tengo experiencia en el area IT como freelancer aproximadamente 2 años.
-
 
 <!-- Mis skills incluyen: ![alt_text](https://github.com/chrisrm86/chrisrm86/blob/main/skills.png?raw=true) -->
 
