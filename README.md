@@ -1,6 +1,21 @@
-## Hola :wave: Soy Christian Morán, desarrollador Full Stack residiendo en Córdoba, Argentina.
+## Hi there :wave: I am Christian Morán, full stack developer.
 
-Soy entusiasta de la tecnología y de como puede ser utilizada para buenos y útiles propósitos.
+I am an enthusiast of technology and how it can be implemented for good and useful purposes.
+
+
+- I have experience with React.js and Angular.js on the frontend creating SPAs that consume data from APIs and Firebase.
+
+
+- On the backend I usually use Node.js and frameworks like Express, Fastify and Nest.js creating APIs and microservices that connect to MongoDB, as well as implementations to CommerceTools API and Google Cloud Functions.
+
+
+- I have also done personal projects with Python, from small scripts to more advanced projects with Django, sqlite and Heroku.
+
+
+- I also like to develop videogames using Unity Engine and currently I have my own apps available in Google Play Store.
+
+
+- My hobbies (yes, I spend time away from the computer) are play soccer, running, read books, biking and play with my dog Rocko.
 
 
 <!-- Mis skills incluyen: ![alt_text](https://github.com/chrisrm86/chrisrm86/blob/main/skills.png?raw=true) -->
@@ -15,6 +30,6 @@ Soy entusiasta de la tecnología y de como puede ser utilizada para buenos y út
 
 ### Tambíen tengo algunos pequeños proyectos en [CodePen](https://codepen.io/chrisrm8) -->
 <!--![alt_text](https://github.com/chrisrm86/chrisrm86/blob/main/skills.png?raw=true)-->
-## Puedes encontrar más detalles sobre mis proyectos en [mi página web](https://christianmoran.netlify.app)
+## You can visit [my portfolio](https://christianmoran.netlify.app)
 </p>  
 <br>
