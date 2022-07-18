@@ -1,4 +1,4 @@
-## Hi there :wave: I am Christian Morán, full stack developer.
+## Hi there :wave: I am Christian Morán, Full Stack Developer.
 
 I am an enthusiast of technology and how it can be implemented for good and useful purposes.
 
