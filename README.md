@@ -30,6 +30,11 @@ I am an enthusiast of technology and how it can be implemented for good and usef
 
 ### Tambíen tengo algunos pequeños proyectos en [CodePen](https://codepen.io/chrisrm8) -->
 <!--![alt_text](https://github.com/chrisrm86/chrisrm86/blob/main/skills.png?raw=true)-->
-## You can visit [my portfolio](https://christianmoran.netlify.app)
+# You can find me at: 
+- [Portfolio](https://christianmoran.netlify.app)
+- [LinkedIn profile](https://www.linkedin.com/in/christian-moran/)
+- [Google PlayStore](https://play.google.com/store/apps/developer?id=Christian+Mor%C3%A1n)
+- [Medium Articles](https://medium.com/@christian-8)
+
 </p>  
 <br>
